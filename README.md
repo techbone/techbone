@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Musa Muhammad Etudaye</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" alt="techbone" /> </p>
 
