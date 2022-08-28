@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Musa Muhammad Etudaye</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<p align="left"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" alt="techbone" /> </p>
+<p align="left"> <img src="![image](https://user-images.githubusercontent.com/79253346/187068354-82e1dba9-7d1e-476c-a08d-9c549d1c2fa4.png)
+" alt="techbone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techbone" alt="techbone" /></a> </p>
 
